@@ -9,3 +9,5 @@ It stops when it goes into an accept state or a reject state. If the turing mach
 Because a turing machine requires an infinitely long tape, it is impossible to create one. However, it is possible to simulate one with a finitely long tape, or by using a computer with a very large amount of memory.
 
 This program is a turing machine simulator. It is to be run on the command line with an encoding of a turing machine, and a string. It displays all the steps of the turing machine, and if the turing machine accepts and rejects the string.
+
+One of the turing machines this is being demonstrated on is the turing machine that accepts all strings of the form 0^n1^n.
