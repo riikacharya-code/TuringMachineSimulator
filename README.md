@@ -12,4 +12,4 @@ This program is a turing machine simulator. It (tm.py) is to be run on the comma
 
 One of the turing machines this is being demonstrated on is the turing machine that accepts all strings of the form 0^n1^n. If the string has exactly n many 0s followed by the same number of 1s, then the turing machine accepts as you can see here.
 
-<img width="1440" alt="Screen Shot 2023-01-18 at 10 14 27 PM" src="https://user-images.githubusercontent.com/76747943/213347367-dd57472c-cb18-4852-8620-5a468c3c3d8e.png">
+<img width="885" alt="Screen Shot 2023-01-18 at 10 14 27 PM" src="https://user-images.githubusercontent.com/76747943/213348299-fecb020d-ff1d-43fe-8ed4-fbfb42f0bf6e.png">
