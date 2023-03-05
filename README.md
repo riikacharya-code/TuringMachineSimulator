@@ -8,8 +8,8 @@ It stops when it goes into an accept state or a reject state. If the Turing mach
 
 Because a Turing machine requires an infinitely long tape, it is impossible to create one. However, it is possible to simulate one with a finitely long tape, or by using a computer with a very large amount of memory.
 
-This program is a Turing machine simulator. It (tm.py) is to be run on the command line with an encoding of a Turing machine, and a string. It displays all the steps of the Turing machine, and if the Turing machine accepts and rejects the string.
+This program (tm.py) simulates the behavior of a Turing machine, using its encoding. It is to be run on the command line with an encoding of a Turing machine, and a string. It displays all the steps of the Turing machine, and if the Turing machine accepts and rejects the string.
 
-One of the Turing machines this is being demonstrated on is the Turing machine that accepts all strings of the form 0<sup>n</sup>1<sup>n</sup> (where n is a nonnegative integer). If the string has exactly n many 0s followed by the same number of 1s, then the Turing machine accepts as you can see here.
+One of the Turing machines tm.py is being demonstrated on is the Turing machine that accepts all strings of the form 0<sup>n</sup>1<sup>n</sup> (where n is a nonnegative integer). If the string has exactly n many 0s followed by the same number of 1s, then the Turing machine accepts as you can see here.
 
 <img width="885" alt="Screen Shot 2023-01-18 at 10 14 27 PM" src="https://user-images.githubusercontent.com/76747943/213348299-fecb020d-ff1d-43fe-8ed4-fbfb42f0bf6e.png">
